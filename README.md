@@ -1,1 +1,1 @@
-# This a Gin's blog host on GitHub.
+# Here is Gin's blog host on GitHub.
