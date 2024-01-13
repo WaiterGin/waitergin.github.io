@@ -1,1 +1,1 @@
-# Gin's blog.
+# Gin's blog
